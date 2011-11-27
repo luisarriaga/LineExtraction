@@ -1,0 +1,11 @@
+Line Extraction
+Luis Arriaga 2010
+Permission is granted to use and modify the above code. If used, please cite.
+
+MATLAB code for line extraction from document images.
+
+This code implements different techniques for the task of text line extraction. The techniques are mostly based on Likforman's 2007 
+"Text Line Extraction: A Survey". Implemented are Projection Profiles, Hough Transform, Active Contours, Water Flow, Minimum Spanning
+Tree, Gaussian mixtures and a separation method for touching components called the "droplet Technique".
+
+For more information, check out the wiki page, or my thesis, located at:
